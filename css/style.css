@@ -1110,7 +1110,7 @@ Media queries for responsive design
             margin-top: 5px; /* Adjusted gap above h2 */
         }
 
-        header {
+        .truck {
     background: linear-gradient(350deg, navy, #2b5d8b 50%, #010037); /* Diagonal gradient */
     color: white;
     width: auto;
@@ -1119,7 +1119,7 @@ Media queries for responsive design
 
 
 
-        header h1 {
+        .truck h1 {
             margin: 0;
             font-size: 2.5em;
         }
